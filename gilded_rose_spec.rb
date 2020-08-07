@@ -1,4 +1,4 @@
-require File.join(File.dirname(__FILE__), 'gilded_rose_v2')
+require File.join(File.dirname(__FILE__), 'gilded_rose')
 
 describe GildedRose do
 
